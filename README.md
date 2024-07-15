@@ -85,12 +85,6 @@ If you have any questions or encounter any issues, please don't hesitate to cont
 
 Email: me@me.com
 
-## Acceptance Criteria
-**Optional section** - this is an extra layer for those who have working list of criteria to be met, this section is a working section and is to be deleted when you deploy your first build. ==(Must edit this section)==
-
-- [ ] Incomplete item  (use this to create a checklist - [ ])
-- [x] Complete item (use this to mark items complete on your checklist- [x])
-
 ## Credits
 The project was started from scratch and developed iteratively or with starter code. ==(Must edit this section)==
 
