@@ -9,7 +9,7 @@ Google: https://drive.google.com/file/d/1c1ExmEbWnW8lBZuAl5AjKjnD7QOtZ_d_/view
 
 Deployement application status: in process - [Deployed Code (click here)] Placeholder for the Deployed link
 
-Social Network for You Repo Readme: ([ReadMe](https://github.com/kimberlyrobinson11122/social-network-for-you/blob/main/README.md)
+Social Network for You Repo Readme: ([ReadMe](https://github.com/kimberlyrobinson11122/social-network-for-you/blob/main/README.md))
 
 ## Images
 
